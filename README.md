@@ -9,7 +9,7 @@ This repository contain files for scrapping facebook post comment. <br>
 2. Python - 3.7.6
 2. Requests library. <br>
 `pip install requests` <br>
-3. BeautifulSoup libaray. <br> 
+3. BeautifulSoup library. <br> 
 `pip install beautifulsoup4` <br>
 4. Pandas. <br>
 `pip install pandas` <br>
