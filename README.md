@@ -1,6 +1,6 @@
 ### Facebook_Post_Comment_Scrapper
 This repository contain files for scrapping facebook post comment. <br>
-<b> Tools/Technologies </b> Python, Request Library, BeautifulSoup Library, Pandas
+<b> Tools/Technologies : </b> Python, Request Library, BeautifulSoup Library, Pandas
 
 <h6> <a href="https://youtu.be/SrDZBLvOTSw">See the project demo</a></h6>
 
