@@ -2,7 +2,6 @@
 This repository contain files for scrapping facebook post comment. <br>
 <b> Tools/Technologies : </b> Python, Request Library, BeautifulSoup Library, Pandas
 
-<h6> <a href="https://youtu.be/SrDZBLvOTSw">See the project demo</a></h6>
 
 #### Dependencies
 1. This code is tested on Python Conda environment in Windows 10 OS machine. <br>
